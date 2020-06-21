@@ -1,5 +1,5 @@
 #
-# Example file for working with classes
+# Example file for working with classes test
 #
 
 
