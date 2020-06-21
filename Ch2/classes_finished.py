@@ -15,7 +15,7 @@ class anotherClass(myClass):
     print ("anotherClass method2")
     
   def method1(self):
-    myClass.method1(self);
+    myClass.method1(self)
     print ("anotherClass method1")
       
 def main():
