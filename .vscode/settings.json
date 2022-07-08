@@ -2,5 +2,5 @@
     "python.linting.pylintEnabled": true,
     "python.linting.enabled": true,
     "python.linting.banditEnabled": false,
-    "python.pythonPath": "C:\\Users\\iwirawan\\AppData\\Local\\Programs\\Python\\Python38\\python.exe"
+    "python.pythonPath": "C:\\Users\\iwira\\anaconda3\\python.exe"
 }
